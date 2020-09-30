@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8BPw7AuqN6QPzw5S3C0jwYHPQhEZQ1HGt0p2HecyyjlMjGQNQ5G4DZY+G/Eq5J9lUadgsHyhuC/F/NE8S9sePg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\João Prates\\source\\repos\\MOE\\MOE\\MOE.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\João Prates\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
